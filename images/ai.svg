@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <rect width="400" height="280" fill="#FFFFFF"/>
+  <circle cx="205" cy="140" r="108" fill="#EBF4FF"/>
+  <rect x="20" y="236" width="360" height="4" rx="2" fill="#E2E8F0"/>
+  <!-- robot -->
+  <line x1="205" y1="78" x2="205" y2="58" stroke="#4A5568" stroke-width="4"/>
+  <circle cx="205" cy="52" r="8" fill="#F56565"/>
+  <rect x="168" y="78" width="74" height="58" rx="14" fill="#A3BFFA"/>
+  <circle cx="190" cy="104" r="8" fill="#2D3748"/>
+  <circle cx="220" cy="104" r="8" fill="#2D3748"/>
+  <circle cx="193" cy="101" r="2.5" fill="#fff"/>
+  <circle cx="223" cy="101" r="2.5" fill="#fff"/>
+  <path d="M192 122 Q205 130 218 122" stroke="#2D3748" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <rect x="160" y="146" width="90" height="76" rx="14" fill="#5A67D8"/>
+  <circle cx="205" cy="184" r="12" fill="#C3DAFE"/>
+  <path d="M199 184 L204 189 L212 178" stroke="#5A67D8" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="160" y1="165" x2="138" y2="195" stroke="#5A67D8" stroke-width="10" stroke-linecap="round"/>
+  <line x1="250" y1="165" x2="272" y2="195" stroke="#5A67D8" stroke-width="10" stroke-linecap="round"/>
+  <rect x="180" y="222" width="14" height="14" fill="#4A5568"/>
+  <rect x="216" y="222" width="14" height="14" fill="#4A5568"/>
+  <!-- person -->
+  <circle cx="78" cy="112" r="15" fill="#F2B896"/>
+  <path d="M63 108 Q66 94 80 96 Q92 98 93 110 Q84 102 63 108Z" fill="#3B2F4A"/>
+  <path d="M60 134 Q78 124 96 134 L100 198 L56 198Z" fill="#38B2AC"/>
+  <rect x="62" y="198" width="13" height="38" fill="#2D3748"/>
+  <rect x="81" y="198" width="13" height="38" fill="#2D3748"/>
+  <line x1="96" y1="142" x2="126" y2="176" stroke="#F2B896" stroke-width="8" stroke-linecap="round"/>
+  <!-- data card -->
+  <rect x="296" y="96" width="82" height="66" rx="6" fill="#fff" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="308" y="130" width="12" height="22" fill="#9AE6B4"/>
+  <rect x="326" y="118" width="12" height="34" fill="#48BB78"/>
+  <rect x="344" y="108" width="12" height="44" fill="#5A67D8"/>
+  <path d="M276 150 L296 138" stroke="#CBD5E0" stroke-width="2" stroke-dasharray="4 4"/>
+</svg>

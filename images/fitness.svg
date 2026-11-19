@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280">
+  <rect width="400" height="280" fill="#FFFFFF"/>
+  <circle cx="200" cy="140" r="110" fill="#E6FFFA"/>
+  <!-- phone -->
+  <rect x="150" y="24" width="104" height="216" rx="18" fill="#2D3748"/>
+  <rect x="159" y="42" width="86" height="180" rx="8" fill="#BEE3F8"/>
+  <circle cx="222" cy="68" r="11" fill="#FBD38D"/>
+  <path d="M159 160 Q185 120 205 150 Q225 128 245 158 L245 222 L159 222Z" fill="#68D391"/>
+  <path d="M159 182 Q190 156 210 178 Q230 160 245 180 L245 222 L159 222Z" fill="#48BB78"/>
+  <path d="M202 92 C202 86 194 84 192 90 C190 84 182 86 182 92 C182 99 192 105 192 105 C192 105 202 99 202 92Z" fill="#F56565"/>
+  <rect x="190" y="30" width="24" height="4" rx="2" fill="#4A5568"/>
+  <!-- runner -->
+  <circle cx="92" cy="86" r="14" fill="#F2B896"/>
+  <path d="M78 82 Q80 68 94 70 Q106 72 106 84 Q98 76 78 82Z" fill="#3B2F4A"/>
+  <path d="M84 104 L106 100 L112 148 L88 152Z" fill="#ED64A6"/>
+  <line x1="106" y1="108" x2="130" y2="124" stroke="#F2B896" stroke-width="8" stroke-linecap="round"/>
+  <line x1="86" y1="110" x2="66" y2="132" stroke="#F2B896" stroke-width="8" stroke-linecap="round"/>
+  <line x1="94" y1="150" x2="122" y2="176" stroke="#2D3748" stroke-width="12" stroke-linecap="round"/>
+  <line x1="122" y1="176" x2="110" y2="214" stroke="#2D3748" stroke-width="12" stroke-linecap="round"/>
+  <line x1="100" y1="150" x2="76" y2="186" stroke="#2D3748" stroke-width="12" stroke-linecap="round"/>
+  <line x1="76" y1="186" x2="52" y2="206" stroke="#2D3748" stroke-width="12" stroke-linecap="round"/>
+  <!-- ball + ground -->
+  <circle cx="312" cy="206" r="22" fill="#4299E1"/>
+  <path d="M296 196 Q312 188 328 196" stroke="#BEE3F8" stroke-width="3" fill="none"/>
+  <rect x="20" y="236" width="360" height="4" rx="2" fill="#E2E8F0"/>
+</svg>

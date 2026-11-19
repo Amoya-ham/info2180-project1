@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 260">
+  <circle cx="60" cy="60" r="4" fill="#fff" opacity=".8"/>
+  <circle cx="245" cy="45" r="6" fill="#fff" opacity=".8"/>
+  <circle cx="270" cy="105" r="3" fill="#fff" opacity=".8"/>
+  <circle cx="35" cy="130" r="3" fill="#fff" opacity=".8"/>
+  <!-- plant -->
+  <path d="M255 228 C243 195 241 172 253 150 C267 172 267 197 255 228Z" fill="#48BB78"/>
+  <path d="M255 228 C272 205 285 195 298 195 C293 214 275 226 255 228Z" fill="#38A169"/>
+  <!-- yoga mat -->
+  <rect x="35" y="218" width="200" height="24" rx="5" fill="#3182CE"/>
+  <rect x="35" y="218" width="200" height="9" rx="4" fill="#4299E1"/>
+  <!-- crossed legs -->
+  <path d="M82 214 C98 186 172 186 188 214 C152 228 118 228 82 214Z" fill="#2D3748"/>
+  <path d="M100 206 C120 196 150 196 170 206" stroke="#4A5568" stroke-width="3" fill="none"/>
+  <!-- torso -->
+  <path d="M108 196 L111 130 Q135 118 159 130 L162 196Z" fill="#E05D6F"/>
+  <!-- arms resting on knees -->
+  <path d="M112 136 Q90 168 96 206" stroke="#F2B896" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M158 136 Q180 168 174 206" stroke="#F2B896" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <!-- neck and head -->
+  <rect x="127" y="110" width="16" height="18" fill="#F2B896"/>
+  <circle cx="135" cy="96" r="20" fill="#F2B896"/>
+  <!-- hair -->
+  <path d="M114 96 Q112 70 135 70 Q158 70 156 96 Q150 82 135 82 Q120 82 114 96Z" fill="#3B2F4A"/>
+  <circle cx="135" cy="62" r="9" fill="#3B2F4A"/>
+  <!-- calm face -->
+  <path d="M124 97 Q128 100 132 97" stroke="#3B2F4A" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M138 97 Q142 100 146 97" stroke="#3B2F4A" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M130 107 Q135 111 140 107" stroke="#C05A5A" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

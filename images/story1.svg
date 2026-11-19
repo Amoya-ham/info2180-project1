@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#CBD5E0"/>
+  <rect x="20" y="60" width="50" height="160" fill="#B8C4D4"/>
+  <rect x="80" y="30" width="60" height="190" fill="#C4CEDB"/>
+  <rect x="230" y="50" width="55" height="170" fill="#B8C4D4"/>
+  <!-- suit -->
+  <path d="M30 300 Q40 232 110 218 L190 218 Q260 232 270 300Z" fill="#2B6CB0"/>
+  <path d="M128 218 L150 262 L172 218Z" fill="#fff"/>
+  <path d="M110 218 L150 270 L128 218Z" fill="#1E4E8C"/>
+  <path d="M190 218 L150 270 L172 218Z" fill="#1E4E8C"/>
+  <!-- neck + head -->
+  <rect x="132" y="186" width="36" height="38" fill="#8D5524"/>
+  <ellipse cx="150" cy="144" rx="42" ry="52" fill="#9C6330"/>
+  <ellipse cx="108" cy="148" rx="7" ry="12" fill="#8D5524"/>
+  <ellipse cx="192" cy="148" rx="7" ry="12" fill="#8D5524"/>
+  <!-- hair + beard -->
+  <path d="M108 136 Q106 92 150 92 Q194 92 192 136 Q184 110 150 110 Q116 110 108 136Z" fill="#1A202C"/>
+  <path d="M110 150 Q112 196 150 198 Q188 196 190 150 Q184 176 150 176 Q116 176 110 150Z" fill="#1A202C"/>
+  <!-- face -->
+  <ellipse cx="132" cy="140" rx="4" ry="5" fill="#1A202C"/>
+  <ellipse cx="168" cy="140" rx="4" ry="5" fill="#1A202C"/>
+  <path d="M136 168 Q150 178 164 168" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>

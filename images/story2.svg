@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#A89080"/>
+  <circle cx="150" cy="150" r="120" fill="#B9A292"/>
+  <circle cx="60" cy="60" r="5" fill="#fff" opacity=".6"/>
+  <circle cx="250" cy="80" r="8" fill="#fff" opacity=".5"/>
+  <circle cx="240" cy="240" r="4" fill="#fff" opacity=".6"/>
+  <!-- shield -->
+  <path d="M150 52 L226 80 L226 152 Q226 214 150 250 Q74 214 74 152 L74 80Z" fill="#F7FAFC"/>
+  <path d="M150 66 L212 88 L212 152 Q212 204 150 236 Q88 204 88 152 L88 88Z" fill="#EDF2F7"/>
+  <!-- cross -->
+  <rect x="136" y="104" width="28" height="86" rx="5" fill="#48BB78"/>
+  <rect x="107" y="133" width="86" height="28" rx="5" fill="#48BB78"/>
+  <!-- sprig -->
+  <path d="M232 262 Q214 222 238 188" stroke="#fff" stroke-width="3" fill="none"/>
+  <circle cx="238" cy="188" r="7" fill="#fff"/>
+  <circle cx="222" cy="214" r="6" fill="#fff"/>
+  <circle cx="232" cy="236" r="5" fill="#fff"/>
+</svg>
